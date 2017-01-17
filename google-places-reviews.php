@@ -4,7 +4,7 @@
  * Description: This plugin reads reviews from a given place and displays them, with star ratings on the page.
  * Version: 1.0.0
  * Author: Laura Warr
- * Author URI: http://laurawarr.com
+ * Author URI: http://laurawarr.ca
  */
 
 	defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
